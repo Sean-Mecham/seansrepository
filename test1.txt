@@ -1,2 +1,3 @@
 I am working on git hub problematic situations regarding  a merge conflict.
 I am typing a different line than git hub site. 
+Now I am typing a second line from the git hub webpage.
