@@ -1,1 +1,2 @@
 I am working on git hub problematic situations regarding  a merge conflict.
+Now I am typing a second line from the git hub webpage.
